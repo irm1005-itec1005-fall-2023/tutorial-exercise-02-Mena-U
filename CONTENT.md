@@ -1,29 +1,29 @@
 # Content for Tutorial 02
 
-Site Header `h2`
+<h2>Site Header</h2>
 
-Site title: City of Ottawa Random Data `p`
+<p>Site title: City of Ottawa Random Data</p>
 
-Illustrated graphic of a condo tower `img`
+<img>Illustrated graphic of a condo tower</img>
 
-Site Menu `h3`
+<h3>Site Menu</h3>
 
 - Home
 - About Us
 - Contact
 
-Random City of Ottawa Things `h1`
+<h1>Random City of Ottawa Things</h1>
 
-Table of contents `h2`
+<h2>Table of contents</h2>
 
 - Housing Construction Summary for Q1 2023
 - Wards
 - Property Taxes
 - Ward Councillor Evaluation Form
 
-Housing Construction Summary for Q1 2023 `h2`
+<h2>Housing Construction Summary for Q1 2023<h2>
 
-In Q1 2023, there were: `p`
+<p>In Q1 2023, there were:</p>
 
 - 2,716 dwellings granted land use permissions through Official Plan or Zoning By-law Amendments
   - 10 of which were not-for-profit dwellings
@@ -34,28 +34,28 @@ In Q1 2023, there were: `p`
   - 579 of which are not-for-profit dwellings
 - 2,135 dwellings where construction was completed
 
-Wards `h2`
+<h2>Wards</h2>
 
-The City of Ottawa is divided into 24 wards. Each ward has a councillor who represents the residents of that ward. `p`
+<p>The City of Ottawa is divided into 24 wards. Each ward has a councillor who represents the residents of that ward.</p>
 
-Map of Ottawa with ward boundaries highlighted `img`
+<img>Map of Ottawa with ward boundaries highlighted</img>
 
-Property Taxes `h2`
+<h2>Property Taxes</h2>
 
-The City of Ottawa collects property taxes from residents to help pay for services such as roads, parks, and public transit. `p`
+<p>The City of Ottawa collects property taxes from residents to help pay for services such as roads, parks, and public transit.</p>
 
-Probing questions `h3`
+<h3>Probing questions</h3>
 
-Reviewing the data in the following table, answer the following questions: `p`
+<p>Reviewing the data in the following table, answer the following questions:</p>
 
 - Which ward has the highest property tax revenue?
 - Which ward has the lowest property tax revenue?
 - What is the total property tax revenue for the City of Ottawa?
 - What is the difference in size between the ward that collects the most property taxes and the ward that collects the least?
 
-Ward specific data `h3`
+<h3>Ward specific data</h3>
 
-Ward Ward Name Municipal Taxes Percent of Total `table`
+<>Ward Ward Name Municipal Taxes Percent of Total `table`
 
 1 ORLÉANS EAST-CUMBERLAND 76,175,204 3.75%
 
@@ -107,11 +107,11 @@ Ward Ward Name Municipal Taxes Percent of Total `table`
 
 Total CITYWIDE 2,030,973,981 100%
 
-Ward Councillor Evaluation Form `h2`
+<h2>Ward Councillor Evaluation Form</h2>
 
-Rents too high? Not enough housing options in your neighbourhood. OCTranspo buses constantly late or not arriving at all. OTrain shut down again? Do you have to ride your bike on a sidewalk because the roads you use aren't comfortable and don't have a protected bike lane? `p`
+<p>Rents too high? Not enough housing options in your neighbourhood. OCTranspo buses constantly late or not arriving at all. OTrain shut down again? Do you have to ride your bike on a sidewalk because the roads you use aren't comfortable and don't have a protected bike lane?</p>
 
-These are all examples of areas of responsibilities that fall to the city and to the mayor and local councillors. Let your councillor know what you think about the job they are doing. Fill out the form below to provide your feedback. `p`
+<p>These are all examples of areas of responsibilities that fall to the city and to the mayor and local councillors. Let your councillor know what you think about the job they are doing. Fill out the form below to provide your feedback.</p>
 
 `form`
 
@@ -149,11 +149,11 @@ Submit Feedback:
 
 I consent to the use of my feedback.
 
-Submit Feedback `input type="submit"`
+<inputtype=submit> Submit Feedback</inputtype=submit>
 
-Site Footer `h2`
+<h2>Site Footer</h2>
 
-Menu `h3`
+<h3>Menu</h3>"
 
 - Home
 - About Us
