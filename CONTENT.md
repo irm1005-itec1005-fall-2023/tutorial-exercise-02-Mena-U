@@ -1,10 +1,9 @@
-# Content for Tutorial 02
+<!DOCTYPE html>
+<h2>The Nigerian Economy</h2>
 
-<h2>Site Header</h2>
+<p>Site title: Why are we digressing?</p>
 
-<p>Site title: City of Ottawa Random Data</p>
-
-<img>Illustrated graphic of a condo tower</img>
+<img>Bloody Nigerian flag</img>
 
 <h3>Site Menu</h3>
 
@@ -12,14 +11,13 @@
 - About Us
 - Contact
 
-<h1>Random City of Ottawa Things</h1>
 
 <h2>Table of contents</h2>
 
-- Housing Construction Summary for Q1 2023
-- Wards
-- Property Taxes
-- Ward Councillor Evaluation Form
+- How has the economy been over the years?
+- The leaders
+- When did we start digressing?
+- How do we fix this?
 
 <h2>Housing Construction Summary for Q1 2023<h2>
 
